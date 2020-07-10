@@ -5,16 +5,19 @@
   -css + sass <br>
   -ionic cross patform <br>
   -node js + mongodb <br>
+  -And the library <br>
 #### 🌱 I’m currently learning all code <br>
 In order to be good at everything <br>
 I really like about these things. And I will not stop studying :running: <br>
+I will do everything for myself to one point. The rest of the life will be used to help others. <br>
 #### Ask anything (if me know the answer) Contact me via <br>
 http://github.com - automatic!
-[GitHub](http://github.com) ## I'm kidding <br>
+[GitHub](http://github.com) I'm kidding :grin: <br>
 
-[Facebook](https://web.facebook.com/profile.php?id=100013151894992)
-line@ tonlnw
-E-mail
+[Facebook](https://web.facebook.com/profile.php?id=100013151894992) 
+line@ tonlnw06p <br>
+E-mail gutonchildlnw6112539@gmail.com <br>
+Youtube Going to build <br>
 
 <!--
 **ThechoiceMaster/ThechoiceMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
