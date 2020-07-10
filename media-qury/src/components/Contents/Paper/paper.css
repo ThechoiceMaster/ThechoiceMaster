@@ -1,0 +1,30 @@
+.wrapper{
+  width: 100%;  
+}
+
+.wrapper .contentpaper{
+    padding: 25px;
+    margin: 50px;
+    height: 100vh;
+}
+.wrapper .contentpaper h1{
+    text-align: center;
+}
+
+.wrapper .contentpaper p{
+    margin-top: 10px;
+    text-align: justify;
+    font-weight: 500;
+    font-size: 24px;
+}
+.p1{
+    padding-left: 50px;
+}
+@media only screen and (min-width: 1200px) {
+    .wrapper .contentpaper{
+        padding-left: 100px;
+        padding-right: 100px;
+        margin: 50px;
+        height: 100vh;
+    }
+}
