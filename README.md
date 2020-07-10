@@ -10,7 +10,12 @@ In order to be good at everything <br>
 I really like about these things. And I will not stop studying :running: <br>
 #### Ask anything (if me know the answer) Contact me via <br>
 http://github.com - automatic!
-[GitHub](http://github.com)
+[GitHub](http://github.com) ## I'm kidding <br>
+
+facebook  https://web.facebook.com/profile.php?id=100013151894992
+line@ tonlnw
+E-mail
+
 <!--
 **ThechoiceMaster/ThechoiceMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
