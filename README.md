@@ -1,6 +1,6 @@
 # You can see, so you know me. 👋 <br>
 ### So I will tell you some things you might not know. <br>
-#### 🔭 I’m currently working on freelance codeing <br>
+#### 🔭 I’m currently working on home codeing <br>
   -react js <br>
   -css + sass <br>
   -ionic cross patform <br>
