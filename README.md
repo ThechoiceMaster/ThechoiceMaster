@@ -1,7 +1,7 @@
 *frontend framework*
   - reactjs, nextjs
   - vuejs, nuxjs
-
+  - angular
 *backend framework*
   - nodejs
   - nestjs
