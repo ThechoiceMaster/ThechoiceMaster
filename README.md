@@ -10,3 +10,5 @@
   - gcp
   - asur
   - digitalocean
+    
+Actually, you can do a lot. Just ask.
